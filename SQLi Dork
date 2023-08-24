@@ -1,11 +1,20 @@
 php?id= site:
-inurl: php?id= site:.in
-inurl: php?id= site:.com
 inurl: news.php?id= site:.com
 inurl: php?id=
 Url a input ”admin” show -get method
-
-php?id= link
-
 inurl: php?id= site:.in
 inurl: php?id= site:.com
+inurl: admin/login.php
+inurl: admin/login.php site:.in
+inurl: admin/login.php site:.com
+inurl: admin/login.php
+inurl: admin/index.php
+inurl: admin
+inurl: login.php
+inurl: login.php site:.in
+inurl:"login.php" site:.in
+intitle: “login page” site:.in
+intitle:"index" of "admin" site:.in
+intext:"Design & Developed By Seawind Solution Pvt.Ltd."
+intitle: “login page”
+inurl:"login.php"
