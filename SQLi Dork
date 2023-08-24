@@ -1,0 +1,11 @@
+php?id= site:
+inurl: php?id= site:.in
+inurl: php?id= site:.com
+inurl: news.php?id= site:.com
+inurl: php?id=
+Url a input ”admin” show -get method
+
+php?id= link
+
+inurl: php?id= site:.in
+inurl: php?id= site:.com
